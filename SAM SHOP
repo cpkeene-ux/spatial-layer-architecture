@@ -1,0 +1,6 @@
+cd /app/sam-shop
+git init
+git remote add origin https://github.com/cpkeene-ux/spatial-layer-architecture.git
+git add .
+git commit -m "Sam Shop — Next.js + Supabase + DeepSeek chassis"
+git push origin main
